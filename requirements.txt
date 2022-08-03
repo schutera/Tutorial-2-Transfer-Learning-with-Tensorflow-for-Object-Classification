@@ -1,2 +1,2 @@
 tensorflow==2.9.1
-opencv-python==4.6.0
+opencv-python==4.6.0.66
