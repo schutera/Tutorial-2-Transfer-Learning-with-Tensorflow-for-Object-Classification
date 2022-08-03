@@ -28,14 +28,12 @@ Of course, no one project will serve all levels of expertice since your needs ma
 
 Buckle up, click the button and off you go..
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/DeepDive/HEAD?filepath=%2FDeepDive.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/Tutorial-2-Transfer-Learning-with-Tensorflow-for-Object-Classification/HEAD?labpath=TL-Answers.ipynb)
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/schutera/Tutorial-2-Transfer-Learning-with-Tensorflow-for-Object-Classification/issues) for a full list of proposed features (and known issues).
 
 
 
