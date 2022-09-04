@@ -28,7 +28,7 @@ Of course, no one project will serve all levels of expertice since your needs ma
 
 Buckle up, click the button and off you go..
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/Tutorial-2-Transfer-Learning-with-Tensorflow-for-Object-Classification/HEAD?labpath=TL-Answers.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/Tutorial-2-Transfer-Learning-with-Tensorflow-for-Object-Classification/HEAD?labpath=TL-TUT.ipynb)
 
 <!-- ROADMAP -->
 ## Roadmap
